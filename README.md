@@ -5,7 +5,7 @@
 - 💻 Passionate about **AI, Deep Learning, Web & App Development**  
 - 🛠️ Skilled in **C, Python, Java, SQL, Matlab, HTML, CSS, JavaScript, React, Node.js, Kotlin**  
 - 📸 Coordinator of the **Media Club (Photography Club)**  
-- ⚡ Interests: **Sports (Running, Cycling, Football), Drawing, Web Design, Music**  
+- ⚡ Interests: **Sports (Running, Cycling, Football), Drawing, Music**  
 
 ---
 
